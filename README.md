@@ -1,4 +1,4 @@
-![Jarvis](https://telegra.ph/file/62202bce1ce295b6f13bc.png)
+![Jarvis]
 
 # Jarvis Security bot
 
