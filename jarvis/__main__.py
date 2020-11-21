@@ -166,24 +166,24 @@ def start(bot: Bot, update: Update, args: List[str]):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="Add Jarvis to your group",
+                            text="Add KmacPRO to your group",
                             url="t.me/{}?startgroup=true".format(bot.username))
                     ],
                     [
                         InlineKeyboardButton(
                             text="Support Chat",
-                            url=f"https://t.me/JarvisSupportOT"),
+                            url=f"https://t.me/linksharplatform"),
                         InlineKeyboardButton(
-                            text="Updates Channel",
-                            url="https://t.me/JarvisOT")
+                            text="Support Chat",
+                            url="https://t.me/cyberwordk")
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Source Code",
-                            url="https://github.com/sppidy/JarvisRobot/")
+                            text="Visit Websit",
+                            url="https://www.cyberwordk.tk")
                     ]]))
     else:
-        update.effective_message.reply_text("Hi, I'm Jarvis.")
+        update.effective_message.reply_text("Hi, I'm KmacPRO.")
 
 
 # for test purposes
