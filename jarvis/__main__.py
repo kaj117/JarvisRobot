@@ -49,7 +49,7 @@ You can find the list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a part of *JARVIS WORKS*
+I'm a part of *@cyberwordk *
 Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
